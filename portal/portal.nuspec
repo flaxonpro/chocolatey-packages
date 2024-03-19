@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
+  <metadata>
+    <id>portal</id>
+    <version>1.2.3</version>
+    <title>portal (Install)</title>
+    <authors>Arvid Gotthard,Zino Kader,Anton Sederlin</authors>
+    <projectUrl>https://github.com/SpatiumPortae/portal</projectUrl>
+    <licenseUrl>https://github.com/SpatiumPortae/portal/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <packageSourceUrl>https://github.com/flaxonpro/chocolatey-packages/portal</packageSourceUrl>
+    <tags>portal p2p transfer-files </tags>
+    <summary>Portal is a quick and easy command-line file transfer utility from any computer to another</summary>
+    <description>a command-line file transfer utility for sending files from any computer to another</description>
+    <releaseNotes>https://github.com/SpatiumPortae/portal/releases/tag/v1.2.3</releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
