@@ -6,6 +6,8 @@
     <title>Portal</title>
     <authors>Arvid Gotthard,Zino Kader,Anton Sederlin</authors>
     <projectUrl>https://github.com/SpatiumPortae/portal</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/flaxonpro/chocolatey-packages/a04f376a266f45a708d56af9d2090431c5e64e88/portal/logo.png</iconUrl>
+    <bugTrackerUrl>https://github.com/SpatiumPortae/portal/issues</bugTrackerUrl>
     <licenseUrl>https://github.com/SpatiumPortae/portal/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <packageSourceUrl>https://github.com/flaxonpro/chocolatey-packages/tree/master/portal</packageSourceUrl>
