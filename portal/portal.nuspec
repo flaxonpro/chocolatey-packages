@@ -8,7 +8,7 @@
     <projectUrl>https://github.com/SpatiumPortae/portal</projectUrl>
     <licenseUrl>https://github.com/SpatiumPortae/portal/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <packageSourceUrl>https://github.com/flaxonpro/chocolatey-packages/portal</packageSourceUrl>
+    <packageSourceUrl>https://github.com/flaxonpro/chocolatey-packages/tree/master/portal</packageSourceUrl>
     <tags>portal p2p transfer-files </tags>
     <summary>Portal is a quick and easy command-line file transfer utility from any computer to another</summary>
     <description>a command-line file transfer utility for sending files from any computer to another</description>
